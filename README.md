@@ -4,7 +4,7 @@
 
 # V1
 ## Notes
-- V1 was built using instructions from this link: https://medium.com/@markmotig/how-to-run-mimikatz-on-sharphellsgate-5<3b1eecccffe>
+- V1 was built using instructions from this link: <https://medium.com/@markmotig/how-to-run-mimikatz-on-sharphellsgate-53b1eecccffe>
 - Instructions were followed almost perfectly, except I used more up to date versions since some of the build artifacts required had newer versions released. I used what ever was newest as of 1.6.22, with the exception of the pe_to_shellcode exe's, those are all from the 0.8 release (as seen in the medium article). 
 - Final build of executable is located at \Obfuscated_Mimicatz\V1\SharpHellsGate\SharpHellsGate\bin\Release\net5.0\SharpHellsGate.exe 
 ## Results
